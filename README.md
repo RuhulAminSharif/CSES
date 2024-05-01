@@ -4,7 +4,7 @@ Here are all my CSES submissions, which are very poorly coded!
 | Problem Type | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems | 19/19 |
-| Sorting and Searching | 0/35 |
+| Sorting and Searching | 4/35 |
 | Dynamic Programming | 0/19 |
 | Graph Algorithms | 0/36 |
 | Range Queries | 0/19 |
@@ -14,7 +14,7 @@ Here are all my CSES submissions, which are very poorly coded!
 | Geometry | 0/7 |
 | Advanced Techniques | 0/24 |
 | Additional Problems | 0/77 |
-| **Total** | **19/300** |
+| **Total** | **23/300** |
 
 # Table of Contents
 
@@ -39,3 +39,10 @@ Here are all my CSES submissions, which are very poorly coded!
 17. [Chessboard and Queens](https://github.com/RuhulAminSharif/CSES/blob/main/01_Introductory%20Problems/17_Chessboard%20and%20Queens.cpp)
 18. [Digit Queries](https://github.com/RuhulAminSharif/CSES/blob/main/01_Introductory%20Problems/18_Digit%20Queries.cpp)
 19. [Grid Paths](https://github.com/RuhulAminSharif/CSES/blob/main/01_Introductory%20Problems/19_Grid%20Paths.cpp)
+
+## Sorting and Searching
+
+1.  [Distinct Numbers](https://github.com/RuhulAminSharif/CSES/blob/main/02_Sorting%20and%20Searching/01_Distinct%20Numbers.cpp)
+2.  [Apartments](https://github.com/RuhulAminSharif/CSES/blob/main/02_Sorting%20and%20Searching/02_Apartments.cpp)
+3.  [Ferris Wheel](https://github.com/RuhulAminSharif/CSES/blob/main/02_Sorting%20and%20Searching/03_Ferris%20Wheel.cpp)
+4.  [Concert Tickets](https://github.com/RuhulAminSharif/CSES/blob/main/02_Sorting%20and%20Searching/04_Concert%20Tickets.cpp)
